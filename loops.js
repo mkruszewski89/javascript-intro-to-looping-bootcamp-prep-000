@@ -7,7 +7,7 @@ function forLoop(array) {
       array.push("I am " + i + " strange loops.")
     }
     */
-    array.push()
+    array.push("test")
   }
   return array
 }
